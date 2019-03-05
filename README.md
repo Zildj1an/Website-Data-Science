@@ -8,3 +8,4 @@ At the moment the website is hosted by University of Leiden [here](http://liacs.
  The PHPs query data from the SQL Server and deliver it as JSON in the required format. The plots and the KPIs defined in the HTML files have an id. The appropriate JavaScript files for the plots and KPIs are embedded in the bottom of the HTML files. The JavaScript will then make an AJAX call to the PHP file to get the JSON and then it will use the JSON data and the id to set the plot or the KPIs. For the plots it is used the open-source JavaScript library Echarts (Apache License V2) and we also used Bootstrap framework for adquiring a Gentelella template by [Colorlib](https://colorlib.com/)
 
 ![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/2.png)
+![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/3.png)
