@@ -1,4 +1,4 @@
-# Website-Data-Science
+# Website-Data-Science 📈️
 This is the website code (both server and front-end) that shows data visualization, KPIs and metrics computed with data from customers (via DDBB) applying Data Science techniques.
 At the moment the website is hosted by University of Leiden [here](http://liacs.leidenuniv.nl/~s2385937/index.html)
 
@@ -10,3 +10,7 @@ At the moment the website is hosted by University of Leiden [here](http://liacs.
 ![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/2.png)
 ![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/3.png)
 ![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/4.png)
+
+# Collaborators
+ * Carlos Bilbao
+ * Halil Gocer
