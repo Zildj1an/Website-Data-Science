@@ -11,6 +11,6 @@ At the moment the website is hosted by University of Leiden [here](http://liacs.
 ![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/3.png)
 ![](https://github.com/Zildj1an/Website-Data-Science/blob/master/screenshots/4.png)
 
-# Collaborators
+# Contributor
  * Carlos Bilbao
  * Halil Gocer
